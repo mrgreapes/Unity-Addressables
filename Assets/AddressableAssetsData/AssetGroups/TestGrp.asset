@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: TestGrp
+  m_EditorClassIdentifier: 
+  m_GroupName: TestGrp
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b04bab1b5fac40a42bd85eda252ac67e
+  m_SerializeEntries:
+  - m_GUID: e9017d5f96b9f09489b4b37e1d6eb914
+    m_Address: PlaygroundScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - newScene
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a199b123083005742b50829dadb75f5a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d81b959726ba07c498b0818bfa25005e, type: 2}
+    - {fileID: 11400000, guid: cea9953eb47ee884c8360fec922a5bfa, type: 2}
